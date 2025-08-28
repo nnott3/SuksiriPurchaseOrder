@@ -1,0 +1,13 @@
+agentic-doc
+pandas
+lxml
+flask
+ngrok
+line-bot-sdk
+gspread
+google-auth
+bs4
+fastapi
+uvicorn
+gspread-formatting
+streamlit
