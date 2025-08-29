@@ -141,7 +141,7 @@ def update_sheet(rows):
 
         sheets = client.open_by_key(spreadsheet_id)
         store_data = sheets.worksheet("ข้อมูลร้านค้า")
-        sheet = sheets.worksheet("COPY รายการสินค้า")
+        sheet = sheets.worksheet("รายการสินค้า")
 
         df = pd.DataFrame(rows)
         values = df.values.tolist()
