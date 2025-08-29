@@ -66,7 +66,7 @@ def get_store_list():
 
         sheets = client.open_by_key(spreadsheet_id)
         store_data = sheets.worksheet("ข้อมูลร้านค้า")
-        sheet = sheets.worksheet("COPY รายการสินค้า")
+        sheet = sheets.worksheet("รายการสินค้า")
 
         table_range = "ข้อมูลร้านค้า!B2:G"  
 
