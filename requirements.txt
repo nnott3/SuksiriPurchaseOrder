@@ -11,3 +11,6 @@ fastapi
 uvicorn
 gspread-formatting
 streamlit
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
