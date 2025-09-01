@@ -2,6 +2,8 @@
 
 A **Streamlit web app** to handle Purchase Orders (POs) using **Agentic Document Extraction** and integration with **Google Sheets**.
 
+Try using the app here: [SuksiriPurchaseOrder](https://suksiripurchaseorder.streamlit.app/)
+
 ---
 
 ##  Features
